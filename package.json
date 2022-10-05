@@ -1,0 +1,18 @@
+{
+  "name": "aa104-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยบาทละ900✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยบาทละ900",
+"เว็บหวย",
+"big lottovip",
+"วิธีหวย",
+"lottovip349"
+],
+  "repository": "https://github.com/setteebet/aa104-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
